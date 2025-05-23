@@ -11,7 +11,8 @@ If you’re into low-level dev, let’s break stuff and learn together.
 ## What I Use
 
 - 🧠 Languages: C, assembly
-- ⚙️ Tools: QEMU, `nasm`, `ld`, `make`, pain
-- 💻 Distro: Void Linux (because I love pain)
+- ⚙️ Tools: QEMU, `nasm`, GCC cross-compiler and linker, ...
+- 💻 Distro: Void Linux
+- 🗒️ Editor: NVim and Sublime Text
 
 > "Not planning to stop."
