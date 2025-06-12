@@ -1,18 +1,23 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on building an OS from scratch. Using C and Assembly.
-- 🌱 I’m currently learning interrupts, ports, ...
-- 👯 I’m looking to collaborate on building an OS
-- 📫 How to reach me: Here's [my email](mailto:raymondmwaura232@gmail.com)
+> **Random Quote:** The fight is won or lost far from witnesses - on the training ground, in the quiet hours, in the discipline no one sees.
+
+I'm Raymond, and I'm building an OS from scratch using **Assembly** and **C**.
+Everything I learn - the blood, the sweat, and regrets - gets documented here:
+
++ [Crafting an OS: Notes & Insights](https://brogrammer232/Crafting-an-OS-Notes-and-Insights)
++ [Bare-Metal Assembly](https://brogrammer232/Bare-Metal-Assembly)
++ *(Coming Soon!)* [C Systems Programming](#)
+
+These notes are beginner-friendly, battle-tested, and written with clarity in mind. If you're starting your own OS journey, they'll give you a solid foundation and a clear roadmap. Have fun!
+
+---
+
+- 📫 Reach out: [My email](mailto:raymondmwaura232@gmail.com)
 - ⚡ Fun fact: I once spent 3 hours debugging a triple fault, only to realize I forgot to load the IDT. I hate myself.
 
-If you’re into low-level dev, let’s break stuff and learn together.
+---
 
-## What I Use
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brogrammer232&theme=github-dark&hide_border=true)
 
-- 🧠 Languages: C, assembly
-- ⚙️ Tools: QEMU, `nasm`, GCC cross-compiler and linker, ...
-- 💻 Distro: Void Linux
-- 🗒️ Editor: NVim and Sublime Text
-
-> "Not planning to stop."
+> *"Not planning to stop."*
