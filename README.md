@@ -11,6 +11,10 @@ Everything I learn - the blood, the sweat, and regrets - gets documented here:
 
 These notes are beginner-friendly, battle-tested, and written with clarity in mind. If you're starting your own OS journey, they'll give you a solid foundation and a clear roadmap. Have fun!
 
+I'm also mastering **Void Linux** to sharpen my understanding of how Linux works under the hood (from init systems to package management), all of which strengthens my OS development skills.:
+
++ [Diving into the Void](https://github.com/brogrammer232/Diving-into-the-Void).
+
 ---
 
 - 📫 Reach out: [My email](mailto:raymondmwaura232@gmail.com)
