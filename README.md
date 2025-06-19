@@ -18,6 +18,6 @@ These notes are beginner-friendly, battle-tested, and written with clarity in mi
 
 ---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brogrammer232&theme=github-dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=brogrammer232&theme=github-dark&hide_border=true)
 
 > *"Not planning to stop."*
