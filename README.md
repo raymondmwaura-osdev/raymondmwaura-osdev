@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-> **Random Quote:** The fight is won or lost far from witnesses - on the training ground, in the quiet hours, in the discipline no one sees.
+> **Random Quote:** The fight is won or lost far from witnesses; on the training ground, in the quiet hours, in the discipline no one sees.
 
 I'm Raymond, and I'm building an OS from scratch using **Assembly** and **C**.
-Everything I learn - the blood, the sweat, and regrets - gets documented here:
+Everything I learn (the blood, the sweat, and regrets) gets documented here:
 
 + [Crafting an OS: Notes & Insights](https://github.com/brogrammer232/Crafting-an-OS-Notes-and-Insights)
 + [Bare-Metal Assembly](https://github.com/brogrammer232/Bare-Metal-Assembly)
