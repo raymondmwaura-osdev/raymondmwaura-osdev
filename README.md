@@ -18,8 +18,8 @@ I'm also mastering **Void Linux** to sharpen my understanding of how Linux works
 ---
 
 - 📫 Reach out: [My email](mailto:raymondmwaura232@gmail.com)
-- ⚡ Fun fact: I once spent 3 hours debugging a triple fault, only to realize I forgot to load the IDT. I hate myself.
-
+- 🧭 **Motto**: Yesterday's burnout is today's warm-up.
+- 🚀 **Tagline**: Today, a bootloader. Tomorrow, an OS.
 ---
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=brogrammer232&theme=github-dark&hide_border=true)
