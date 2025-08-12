@@ -19,6 +19,7 @@ These notes are beginner-friendly, battle-tested, and written with clarity in mi
 ---
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=brogrammer232&theme=github-dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brogrammer232&layout=compact&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brogrammer232&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=0d1117&hide_border=true)
 
 > *"Not planning to stop."*
