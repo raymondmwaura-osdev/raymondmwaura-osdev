@@ -13,7 +13,7 @@ These notes are beginner-friendly, battle-tested, and written with clarity in mi
 
 ---
 
-- 📫 Reach out: [My email](mailto:raymondmwaura232@gmail.com)
+- 📫 Reach out: [My email](mailto:raymond.mwaura.dev@gmail.com)
 - 🧭 **Motto**: Yesterday's burnout is today's warm-up.
 - 🚀 **Tagline**: Today, a bootloader. Tomorrow, an OS.
 ---
