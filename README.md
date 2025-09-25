@@ -18,7 +18,7 @@ These notes are beginner-friendly, battle-tested, and written with clarity in mi
 - 🚀 **Tagline**: Today, a bootloader. Tomorrow, an OS.
 ---
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=raymondmwaura-osdev&theme=github-dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=raymondmwaura-osdev&theme=github-dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raymondmwaura-osdev&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=0d1117&hide_border=true)
 
