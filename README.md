@@ -1,25 +1,55 @@
-## Hi there 👋
+# Welcome
 
 > **Random Quote:** The fight is won or lost far from witnesses; on the training ground, in the quiet hours, in the discipline no one sees.
 
-I'm Raymond, and I'm building an OS from scratch using **Assembly** and **C**.
-Everything I learn (the blood, the sweat, and regrets) gets documented here:
+Hi, I’m Raymond. I’m currently focused on two learning paths:
 
-+ [Crafting an OS: Notes & Insights](https://github.com/raymondmwaura-osdev/Crafting-an-OS-Notes-and-Insights)
-+ [Bare-Metal Assembly](https://github.com/raymondmwaura-osdev/Bare-Metal-Assembly)
-+ *(Coming Soon!)* [C Systems Programming](#)
++ **Operating System Development** as a long-term pursuit.  
++ **Full Stack Web Development** as a short-term goal.  
 
-These notes are beginner-friendly, battle-tested, and written with clarity in mind. If you're starting your own OS journey, they'll give you a solid foundation and a clear roadmap. Have fun!
+Alongside these, I also work on side projects such as automation tools and other small utilities.
 
 ---
 
-- 📫 Reach out: [My email](mailto:raymond.mwaura.dev@gmail.com)
-- 🧭 **Motto**: Yesterday's burnout is today's warm-up.
-- 🚀 **Tagline**: Today, a bootloader. Tomorrow, an OS.
+## Operating System Development
+
+I’ve created an organization called **[TheOSDevLab](https://github.com/TheOSDevLab)** to host all my OS development work.  
+
++ [Crafting an OS: Notes and Insights](https://github.com/TheOSDevLab/Crafting-an-OS-Notes-and-Insights)  
+  Notes and reflections from my journey into OS development.
+
++ [Bare-Metal Assembly](https://github.com/TheOSDevLab/Bare-Metal-Assembly)  
+  A collection of notes on x86 Assembly, focused on OS programming.
+
++ *(Coming Soon)* **C Systems Programming**  
+  Notes on learning C in the context of operating system development.
+
+---
+
+## Full Stack Web Development
+
+I’ve also set up another organization, **[FullStackWebDevLab](https://github.com/FullStackWebDevLab)**, for my web development journey.  
+
++ [Full Stack Journal](https://github.com/FullStackWebDevLab/FullStackJournal)  
+  Notes and insights as I learn full stack web development.
+
+---
+
+## Side Projects
+
+In addition to structured learning, I build independent side projects.  
+These are hosted under my **personal account** and usually focus on automation or experimental ideas.
+
+---
+
+## Contact
+
+- Email: [raymond.mwaura.dev@gmail.com](mailto:raymond.mwaura.dev@gmail.com)  
+
 ---
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=raymondmwaura-osdev&theme=github-dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raymondmwaura-osdev&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=0d1117&hide_border=true)
 
-> *"Not planning to stop."*
+> *“Not planning to stop.”*
