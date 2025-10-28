@@ -7,7 +7,7 @@ Hi, I’m Raymond. I’m currently focused on two learning paths:
 + **Operating System Development** as a long-term pursuit.  
 + **Full Stack Web Development** as a short-term goal.  
 
-Alongside these, I also work on side projects such as automation tools and other small utilities.
+Alongside these, I also work on side projects such as automation tools and other utilities.
 
 ---
 
