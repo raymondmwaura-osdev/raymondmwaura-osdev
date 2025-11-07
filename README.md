@@ -21,7 +21,7 @@ I’ve created an organization called **[TheOSDevLab](https://github.com/TheOSDe
 + [Bare-Metal Assembly](https://github.com/TheOSDevLab/Bare-Metal-Assembly)  
   A collection of notes on x86 Assembly, focused on OS programming.
 
-+ [**C Systems Programming**](https://github.com/TheOSDevLab/C_Systems_Programming) 
++ [**C Systems Programming**](https://github.com/TheOSDevLab/C_Systems_Programming)  
   Detailed notes on C for operating system development.
 
 ---
