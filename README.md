@@ -48,7 +48,7 @@ These are hosted under my **personal account** and usually focus on automation o
 
 ---
 
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=raymondmwaura-osdev&theme=github-dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=raymondmwaura-osdev&theme=github-dark&hide_border=false)
 
 > *“Not planning to stop.”*
 
