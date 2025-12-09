@@ -10,8 +10,8 @@ img = Image.new('RGB', (img_size, img_size), (0, 0, 0))
 draw = ImageDraw.Draw(img)
 
 # Calculate squares positions
-x1 = (img_size / 2) - (1.5 * square_size)
-x2 = (img_size / 2) + (0.5 * square_size)
+x1 = (img_size / 2) - (1.25 * square_size)
+x2 = (img_size / 2) + (0.25 * square_size)
 y = (img_size / 2) - (0.5 * square_size)
 
 # Draw the green commit square
